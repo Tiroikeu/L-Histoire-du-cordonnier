@@ -1,0 +1,71 @@
+h1{
+    color:rgb(1, 32, 209);
+    font-size: 200px;
+    text-align: center;
+    font-family: Carolingia;
+}
+@font-face{
+    font-family: Enchanted Land;
+    src: url("./Enchanted Land.otf");
+}
+@font-face{
+    font-family: Carolingia ;
+    src: url("./carolingia.ttf");
+}
+image{
+    max-width: 100%;
+    box-align: center;
+}
+.history{
+    font-family: Enchanted Land;
+    font-size: 20px;
+}
+button{
+    border-radius: 1000%;
+    width: 300%;
+    font-family: Carolingia;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(75, 15, 15);
+}
+.nextPage{
+    text-align: right;
+    font-size: 1rem;
+}
+.remonter{
+    text-align: left;
+    font-size: 1rem;    
+}
+.b1{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b2{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b3{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b4{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
